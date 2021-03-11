@@ -1,2 +1,2 @@
 # LP-IOT
-Repo for the domain of Internet of Things
+Repo for the technology of Internet of Things
